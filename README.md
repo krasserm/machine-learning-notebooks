@@ -34,4 +34,6 @@ starting point:
 - [Exercise 3 notebook](ml-ex3.ipynb): Multi-class classification and neural networks ([ex3.pdf](data/ml-ex3/ex3.pdf))
 - [Exercise 4 notebook](ml-ex4.ipynb): Neural networks learning ([ex4.pdf](data/ml-ex4/ex4.pdf))
 - [Exercise 5 notebook](ml-ex5.ipynb): Regularized linear regression and bias vs. variance ([ex5.pdf](data/ml-ex5/ex5.pdf))
-- ...
+- Exercise 6 notebook: Support vector machines
+- Exercise 7 notebook: K-means clustering and principal component analysis
+- Exercise 8 notebook: Anomaly detection and recommender systems
