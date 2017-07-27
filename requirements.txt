@@ -20,11 +20,14 @@ jupyter-core==4.3.0
 lxml==3.8.0
 MarkupSafe==1.0
 matplotlib==2.0.2
+metakernel==0.20.4
 mistune==0.7.4
 nbconvert==5.2.1
 nbformat==4.3.0
 notebook==5.0.0
 numpy==1.13.0
+oct2py==4.0.6
+octave-kernel==0.26.2
 olefile==0.44
 openpyxl==2.4.8
 pandas==0.20.2
