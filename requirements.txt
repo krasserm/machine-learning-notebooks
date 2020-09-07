@@ -1,5 +1,6 @@
 appnope==0.1.0
 bleach==2.0.0
+certifi==2020.6.20
 cycler==0.10.0
 decorator==4.0.11
 entrypoints==0.2.2
@@ -24,6 +25,7 @@ metakernel==0.20.4
 mistune==0.7.4
 nbconvert==5.2.1
 nbformat==4.3.0
+nose==1.3.7
 notebook==5.0.0
 numpy==1.13.0
 oct2py==4.0.6
@@ -35,6 +37,7 @@ pandocfilters==1.4.1
 pexpect==4.2.1
 pickleshare==0.7.4
 Pillow==4.1.1
+polylearn @ git+https://github.com/scikit-learn-contrib/polylearn.git@4dd9d4b8aca029628a4c934829526b8552db2e1b
 prompt-toolkit==1.0.14
 ptyprocess==0.5.1
 Pygments==2.2.0
@@ -47,6 +50,7 @@ scikit-learn==0.18.1
 scipy==0.19.0
 simplegeneric==0.8.1
 six==1.10.0
+sklearn-contrib-lightning==0.5.0
 terminado==0.6
 testpath==0.3.1
 tornado==4.5.1
