@@ -13,7 +13,7 @@ I developed these solutions while learning Python and its
 [scientific programming libraries](https://www.scipy.org/) such as [NumPy](http://www.numpy.org/), 
 [SciPy](https://scipy.org/scipylib/index.html), [pandas](http://pandas.pydata.org/) and 
 [matplotlib](http://matplotlib.org/) in a machine learning context. The solutions are provided as 
-[Jupyter](http://jupyter.org/) Python notebooks. Developers new to scikit-learn hopefully find them useful to see how 
+[Jupyter](http://jupyter.org/) notebooks. Developers new to scikit-learn hopefully find them useful to see how 
 the machine learning topics covered in the course relate to the 
 [scikit-learn API](http://scikit-learn.org/stable/modules/classes.html). In their current state, the notebooks neither 
 explain machine learning basics nor introduce the used libraries. For learning machine learning basics I highly 
@@ -21,7 +21,7 @@ recommend attending the course lectures. For an introduction to the used librari
 starting point: 
 
 - [Python tutorial](https://docs.python.org/3/tutorial/)
-- [NumPy tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+- [NumPy tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 - [SciPy tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
 - [Pandas tutorial](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 - [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
